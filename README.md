@@ -6,7 +6,7 @@
 
 `composer require nox0121/laravel-env-sync-command`
 
-### 設定 app.confg
+### 設定 app.confg (Laravel 5.5 以上版本不需設定)
 
 	'providers' => [
 	    ...

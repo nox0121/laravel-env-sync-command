@@ -17,5 +17,12 @@
         "psr-4": {
             "Nox0121\\LaravelEnvSyncCommand\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Nox0121\\LaravelEnvSyncCommand\\LaravelEnvSyncCommandServiceProvider"
+            ]
+        }
     }
 }
